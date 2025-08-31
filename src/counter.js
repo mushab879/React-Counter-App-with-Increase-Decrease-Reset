@@ -1,6 +1,6 @@
 import data from './data.json';
 import { useState } from 'react';
-import './Counter.css';  // relative path to the CSS file
+import './counter.css';  // relative path to the CSS file
 
 
 
