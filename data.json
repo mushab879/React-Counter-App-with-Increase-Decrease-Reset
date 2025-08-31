@@ -1,0 +1,5 @@
+{
+  "title": "React Counter Example",
+  "initialCount": 0,
+  "incrementStep": 1
+}
